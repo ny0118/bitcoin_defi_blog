@@ -4,7 +4,8 @@
   # defi三件套：
   （1）dex（2）借贷（3）稳定币
 
-  # 目前只有bitcoin和其他crypto。可能没有所谓的web3，只有crypto。所有表象，都是围绕互联网资产金融化来运行的。而其他crypto中，我目前（2022.10.8）相对认可的有Eth、BNB、usdt、busd、usdc。逻辑如下：
+  # 目前只有bitcoin和其他crypto。
+  可能没有所谓的web3，只有crypto。所有表象，都是围绕互联网资产金融化来运行的。而其他crypto中，我目前（2022.10.8）相对认可的有Eth、BNB、usdt、busd、usdc。逻辑如下：\
 （1） bitcoin：加密圈绝对王者，明牌通缩机制对抗法币增发，POW机制对抗网络和现实中所有POS机制。\
 （2） eth：智能合约之王。全套生态，生态值钱，单纯链不值钱（可参考etc）。\
 （3） bnb：交易所之王。第一所、bnb链、抵扣手续费、燃烧、IEO等。\
