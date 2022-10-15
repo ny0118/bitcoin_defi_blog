@@ -28,11 +28,11 @@
 （3）要特别注意可能会出现“无中生有”的现象（即超额发行稳定币，只要不被挤兑就不怕崩盘）。
 
 # 资产流：（20221015）
-（1）BTC  和 usdt、busd、usdc  二人转
-（2）流动性挖矿 BTC-U，挣BNB
-（3）BNB staking
-（4）BNB转流动性挖矿BNB-u
-（5）流动性挖矿BNB-u 转  流动性挖矿BNB-ETH
-（6）流动性挖矿BNB-ETH 转 流动性挖矿u-ETH
-（7）流动性挖矿u-ETH 转 流动性挖矿BTC-ETH
+（1）BTC  和 usdt、busd、usdc  二人转\
+（2）流动性挖矿 BTC-U，挣BNB\
+（3）BNB staking\
+（4）BNB转流动性挖矿BNB-u\
+（5）流动性挖矿BNB-u 转  流动性挖矿BNB-ETH\
+（6）流动性挖矿BNB-ETH 转 流动性挖矿u-ETH\
+（7）流动性挖矿u-ETH 转 流动性挖矿BTC-ETH\
 （8）……暂时这样
